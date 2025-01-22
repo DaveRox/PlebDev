@@ -1,1 +1,2 @@
-This didn't work out like I thought it would. Correcting here and pulling to VS Code.
+Figured out the issue. Fixed it and committed again.
+This is the first README file for my PlebDev Repo.
